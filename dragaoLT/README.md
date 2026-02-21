@@ -40,7 +40,7 @@ O **DragaoLT** é um modelo de linguagem de grande escala (LLM) baseado na arqui
 - **Mistura de Especialistas (MoE)** com roteamento inteligente e balanceamento de carga
 - **Treinamento e inferência em FP8** nativos para máxima eficiência
 - **Janela de contexto de até 128K tokens**
-- **Código e variáveis em português** para maior acessibilidade
+
 
 ---
 
