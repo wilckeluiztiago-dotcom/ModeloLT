@@ -1,0 +1,22 @@
+{
+    "tamanho_vocabulario": 102400,
+    "dimensao": 5120,
+    "dimensao_intermediaria": 12288,
+    "dimensao_intermediaria_moe": 1536,
+    "num_camadas": 60,
+    "num_camadas_densas": 1,
+    "num_cabecas": 128,
+    "num_especialistas_roteados": 160,
+    "num_especialistas_compartilhados": 2,
+    "num_especialistas_ativados": 6,
+    "num_grupos_especialistas": 8,
+    "num_grupos_limitados": 3,
+    "escala_rota": 16.0,
+    "rank_lora_q": 1536,
+    "rank_lora_kv": 512,
+    "dim_cabeca_qk_sem_pos": 128,
+    "dim_cabeca_qk_com_pos": 64,
+    "dim_cabeca_v": 128,
+    "taxa_dropout": 0.0,
+    "peso_entropia_gate": 0.01
+}
